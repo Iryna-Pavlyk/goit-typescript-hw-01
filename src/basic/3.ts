@@ -1,3 +1,3 @@
 let mixedTypes: string | number;
 
-type variant = "enable " | "disable";
+let variant: "enable " | "disable";
